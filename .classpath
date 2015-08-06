@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/nz.ac.waikato.cms.weka/weka-dev/3.7.12/3dc46df8ac994a6ab8b51157b9fb05db32128173/weka-dev-3.7.12-sources.jar" kind="lib" path="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/nz.ac.waikato.cms.weka/weka-dev/3.7.12/d029144544e969f53aa09e14aa18e4491eaf2a0e/weka-dev-3.7.12.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/net.sf.squirrel-sql.thirdparty-non-maven/java-cup/0.11a/70aeeb122a93d6c72b13384f50acc2d85334caae/java-cup-0.11a-sources.jar" kind="lib" path="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/net.sf.squirrel-sql.thirdparty-non-maven/java-cup/0.11a/1de46cc85d147d9f91af59d4a0107091c8b112d6/java-cup-0.11a.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/org.pentaho.pentaho-commons/pentaho-package-manager/1.0.8/b12c07bbf6cf30318117de8758a281b7d1ec7a1e/pentaho-package-manager-1.0.8-sources.jar" kind="lib" path="/Users/andrewmcglathery/.gradle/caches/modules-2/files-2.1/org.pentaho.pentaho-commons/pentaho-package-manager/1.0.8/4ecdc8c0955b2336ca9b2ce0b93702a741c8cd46/pentaho-package-manager-1.0.8.jar" exported="true"/>
+</classpath>
